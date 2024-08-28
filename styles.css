@@ -47,6 +47,10 @@ textarea {
     
 }
 
+
+button {
+
+
 button#encode-btn  {
     background-image: url('file:///C:/Users/luaro/Desktop/CURSOS/ORACLE_ONE/Challenge/images/button.png'); /* Substitua pelo caminho correto da imagem de criptografia */
     background-size: cover;
@@ -79,6 +83,7 @@ button#decode-btn {
     height: 100px;
     }
 
+}
 
 button:hover {
     background-color: #6b4f43; /* Cor para hover dos botões */
